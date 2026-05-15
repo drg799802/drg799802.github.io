@@ -1,7 +1,7 @@
 ## Dana R. Gehring
 
 I am a faculty mentor for the [ESIIL stars](https://esiil.org/) 2026 program.  This is my 4th year of being a mentor for this program.  I am the Math Science and Technology department chair at [Oglala Lakota College](https://www.olc.edu/) and a Biology assistant professor. 2026 is my 21st year of teaching at tribal colleges. 
-I am owned by several wirehair dachshunds with only 3 living with me and 3 living with my sister.  I enjoy going to dog shows, hunting, and sporting events with my dogs.  
+I am owned by several wirehair dachshunds.  I enjoy going to dog shows, hunting, and sporting events with my dogs.  
 
 ### Contact Information
 
