@@ -12,6 +12,11 @@ I am owned by several wirehair dachshunds.  I enjoy going to dog shows, hunting,
 * [OLC MST Facebook](https://www.facebook.com/profile.php?id=100088294075839)
 
 <img 
+  src="img/311128908_10102262508951134_4301067607073798724_n.jpg"
+  alt="headshot, Dana Gehring"
+  width="25%">
+
+<img 
   src="img/491141723_10103123075573724_3819330673789792985_n.jpg" 
   alt="GCH DC GRD's v Moonlight's Sharp Dressed Man MW DCAT aka Tux" 
   width="50%">
