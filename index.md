@@ -5,9 +5,12 @@ I am owned by several wirehair dachshunds.  I enjoy going to dog shows, hunting,
 
 ### Contact Information
 
-* Email: danag@olc.edu
+* [Email](danag@olc.edu)
 * [Linkedin](https://www.linkedin.com/in/dana-gehring/)
 * GitHub: drg799802
 
-![GCH DC GRD's v Moonlight's Sharp Dressed Man MW DCAT aka Tux](https://github.com/drg799802/drg799802.github.io/blob/main/img/491141723_10103123075573724_3819330673789792985_n.jpg)
+<img 
+  src="img/491141723_10103123075573724_3819330673789792985_n.jpg" 
+  alt="GCH DC GRD's v Moonlight's Sharp Dressed Man MW DCAT aka Tux" 
+  width="50%">
 ### GCH DC GRD's v Moonlight's Sharp Dressed Man MW DCAT aka Tux
